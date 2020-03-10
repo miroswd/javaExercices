@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aed79695-d189-402c-b9ef-b0bf20684d65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtGmsXLB42CrxyOAHjTyFQmEJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ContaCedulas">
+    <configuration name="ContaCedulas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContaCedulas" />
+      <module name="AulasHamilton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionRest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivisionRest" />
+      <module name="AulasHamilton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaPonderada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediaPonderada" />
+      <module name="AulasHamilton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaReais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediaReais" />
+      <module name="AulasHamilton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuatroDigitos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuatroDigitos" />
+      <module name="AulasHamilton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContaCedulas" />
+        <item itemvalue="Application.QuatroDigitos" />
+        <item itemvalue="Application.DivisionRest" />
+        <item itemvalue="Application.MediaPonderada" />
+        <item itemvalue="Application.MediaReais" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aed79695-d189-402c-b9ef-b0bf20684d65" name="Default Changelist" comment="" />
+      <created>1583754638600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583754638600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583755283934">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1583755283934" />
+    <state width="1874" height="255" key="GridCell.Tab.0.bottom" timestamp="1583870498209">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583868858719" />
+    <state width="1874" height="255" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1583870498209" />
+    <state width="1874" height="255" key="GridCell.Tab.0.center" timestamp="1583870498208">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583868858718" />
+    <state width="1874" height="255" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1583870498208" />
+    <state width="1874" height="255" key="GridCell.Tab.0.left" timestamp="1583870498208">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583868858717" />
+    <state width="1874" height="255" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1583870498208" />
+    <state width="1874" height="255" key="GridCell.Tab.0.right" timestamp="1583870498209">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583868858718" />
+    <state width="1874" height="255" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1583870498209" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583868442069">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583868442069" />
+    <state x="347" y="174" width="672" height="677" key="run.anything.popup" timestamp="1583868836632">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" width="672" height="677" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1583868836632" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583758375735">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1583758375735" />
+  </component>
+</project>
